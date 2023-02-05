@@ -1,6 +1,12 @@
-# arduino-midi-sync
-Arduino MIDI master clock/sync/divider for MIDI instruments, Pocket Operators and Korg Volca.
+# MidiMasterClock
+Clock made in arduino to synchronize the tempo of synthesizers. Designed for Pocket Operator (and compatible)
 
-Detail is here : https://ejlabs.net/arduino-midi-master-clock/
+Midi Master Clock, is a project based on https://github.com/ejlabs/arduino-midi-sync. 
 
-MIDI Clock EFX version : https://github.com/ejlabs/arduino-midi-sync/tree/Sample-EFX
+In this case, it has been modified to be used with 8-segment displays, through multiplexing with a shift register, making use of interrupts with the Arduino Timer2.
+
+This project has three parts.
+
+- Electronic assembly.
+- Microcontroller programming.
+- 3D design of the cover.
