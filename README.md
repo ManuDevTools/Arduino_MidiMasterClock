@@ -74,8 +74,11 @@ In this case, it has been modified to be used with 8-segment displays, through m
 This project has three parts.
 
 Electronic assembly. PCB scheme and Gerber file.
+
 Microcontroller programming.
+
 3D design of the cover.
+
 
 Feel free to use it and modify it as you need.
 
