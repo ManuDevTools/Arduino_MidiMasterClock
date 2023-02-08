@@ -114,7 +114,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 LinkedIn - [@LinkedIn](https://www.linkedin.com/in/manuelspk/)
 
-Project Link: [https://github.com/ManuDevTools/Maya_QtTemplate](https://github.com/ManuDevTools/Maya_QtTemplate)
+Project Link: [https://github.com/ManuDevTools/Maya_QtTemplate](https://github.com/ManuDevTools/Arduino_MidiMasterClock)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
