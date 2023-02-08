@@ -63,7 +63,7 @@
 ## About The Project
 <div align="center">
 <a href="https://github.com/othneildrew/Best-README-Template">
-<img src="images/photo_2023-02-08_21-54-41.jpg" alt="Logo" width="640" height="360">
+<img src="images/photo_2023-02-08_21-54-41.jpg" alt="Logo" width="640" height="480">
 </a>
 </div>
 <br>
