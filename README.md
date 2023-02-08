@@ -61,11 +61,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<div align="center">
 <a href="https://github.com/othneildrew/Best-README-Template">
 <img src="images/photo_2023-02-08_21-54-41.jpg" alt="Logo" width="640" height="360">
 </a>
-
+</div>
+<br>
 Midi Master Clock, is a project based on https://github.com/ejlabs/arduino-midi-sync.
 
 In this case, it has been modified to be used with 8-segment displays, through multiplexing with a shift register, making use of interrupts with the Arduino Timer2.
