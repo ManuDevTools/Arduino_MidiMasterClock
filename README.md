@@ -62,6 +62,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<a href="https://github.com/othneildrew/Best-README-Template">
+<img src="images/photo_2023-02-08_21-54-41.jpg" alt="Logo" width="180" height="180">
+</a>
+
 Midi Master Clock, is a project based on https://github.com/ejlabs/arduino-midi-sync.
 
 In this case, it has been modified to be used with 8-segment displays, through multiplexing with a shift register, making use of interrupts with the Arduino Timer2.
@@ -114,7 +118,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 LinkedIn - [@LinkedIn](https://www.linkedin.com/in/manuelspk/)
 
-Project Link: [https://github.com/ManuDevTools/Maya_QtTemplate](https://github.com/ManuDevTools/Arduino_MidiMasterClock)
+Project Link: [https://github.com/ManuDevTools/Arduino_MidiMasterClock](https://github.com/ManuDevTools/Arduino_MidiMasterClock)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
