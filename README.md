@@ -63,7 +63,7 @@
 ## About The Project
 
 <a href="https://github.com/othneildrew/Best-README-Template">
-<img src="images/photo_2023-02-08_21-54-41.jpg" alt="Logo" width="180" height="180">
+<img src="images/photo_2023-02-08_21-54-41.jpg" alt="Logo" width="640" height="360">
 </a>
 
 Midi Master Clock, is a project based on https://github.com/ejlabs/arduino-midi-sync.
