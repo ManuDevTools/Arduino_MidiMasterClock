@@ -91,7 +91,7 @@ Thank you!
 ### Built With
 
 <div align="center">
-    <img src="https://www.tecnoshoponline.es/wp-content/uploads/logo-arduino.png" alt="Logo" width="80" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1080px-Arduino_Logo.svg.png" alt="Logo" width="80" height="80">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
